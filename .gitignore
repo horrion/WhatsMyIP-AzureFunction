@@ -1,0 +1,10 @@
+# Ignore built files
+bin/
+obj/
+
+# Logs
+logs
+*.log
+
+# Temporary files
+*~
